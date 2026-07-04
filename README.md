@@ -4,7 +4,7 @@ A rain detection and alert system built and tested in Proteus. The project uses 
 
 ## Circuit
 
-Rain Detector Circuit(RainDetectorCircuit.jpg)
+![Rain Detector Circuit](RainDetectorCircuit.jpg)
 
 ## How It Works
 
